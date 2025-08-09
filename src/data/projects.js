@@ -4,8 +4,8 @@ const projects = [
     title: "Notes App (Frontend)",
     description: "Simple React frontend for the Notes API: create, list, edit, delete.",
     stack: ["React", "Vite"],
-    repo: null,                 // <-- noch nicht vorhanden
-    demo: null                  // <-- noch nicht vorhanden
+    repo: "https://github.com/BarisOez/notes-app-react",
+    demo: "https://barisoez.github.io/notes-app-react/"   // nach Deploy (Schritt B) aktiv
   },
   {
     slug: "portfolio",
