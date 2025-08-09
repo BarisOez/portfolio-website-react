@@ -5,8 +5,8 @@ const projects = [
         title: "Notes App",
         description: "A simple full-stack notes application with CRUD features and auth.",
         stack: ["React", "Vite", "Java/Spring", "PostgreSQL"],
-        repo: "https://github.com/BarisOez/notes-app",       // update later
-        demo: null                                           // add when deployed
+        repo: "https://github.com/BarisOez/notes-api-spring",       
+        demo: null                                           
     },
     {
         slug: "portfolio",
