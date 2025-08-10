@@ -22,7 +22,7 @@ const projects = [
     stack: ["Java", "Spring Boot", "H2 (dev)"],
     repo: "https://github.com/BarisOez/notes-api-spring",
     demo: null
-  }
+  },
   {
   slug: "tasks-api-django",
   title: "Tasks API (Django + DRF)",
