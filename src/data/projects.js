@@ -23,6 +23,15 @@ const projects = [
     repo: "https://github.com/BarisOez/notes-api-spring",
     demo: null
   }
+  {
+  slug: "tasks-api-django",
+  title: "Tasks API (Django + DRF)",
+  description: "Simple CRUD API with validation & pagination.",
+  stack: ["Python", "Django", "DRF"],
+  repo: "https://github.com/BarisOez/tasks-api-django",
+  demo: null
+}
+
 ];
 
 export default projects;
